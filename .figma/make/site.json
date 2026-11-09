@@ -1,0 +1,11 @@
+{
+  "title": "V2.2",
+  "description": "Prototipo inicial de una aplicación diseñado según los requisitos del documento para ayudar a los usuarios a explorar sus funciones y propósito.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
